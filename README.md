@@ -1,5 +1,17 @@
 # Generalized Delayed Feedback Model with Post-Click Information in Recommender Systems
 
+## Cite
+
+```
+@inproceedings{gdfm_neurips22,
+  author    = {Jia-Qi Yang and
+               De-Chuan Zhan},
+  title     = {Generalized Delayed Feedback Model with Post-Click Information in Recommender Systems},
+  booktitle = {NeurIPS 2022},
+  year      = {2022},
+}
+```
+
 ## Reproduce results in the paper
 
 Replace seed in config.py to run multiple times and calculate the mean and standard variance.
