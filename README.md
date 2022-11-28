@@ -12,6 +12,8 @@
 }
 ```
 
+[arxiv version paper](https://arxiv.org/abs/2206.00407)
+
 ## Reproduce results in the paper
 
 Replace seed in config.py to run multiple times and calculate the mean and standard variance.
